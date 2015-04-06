@@ -1,3 +1,3 @@
 - throw 404 for all api if get by id fails
 - database mux for database migration
-- css mux in core behing a flag for migration to new service
+- css mux in core behing a flag for migration to new serviceswagger should show snake case name in the api doc
